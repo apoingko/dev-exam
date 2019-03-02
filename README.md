@@ -2,7 +2,7 @@
 
 This is a laravel project, xampp
 
-1. copy enite project to htdocs
+1. copy entire project to htdocs
 2. create database in localhost/phpmyadmin name = laraemployee
 //there is a sql file in the repo called laraemployee.sql
 3. import laraemployee.sql to database 
